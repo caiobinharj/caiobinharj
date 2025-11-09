@@ -1,32 +1,26 @@
 # 🚀 Caio Andrade da Silva Cunha
 
-**`Estudante UFF | Pesquisador | Engenheiro de IA | Cientista e Analista de Dados | Full-Stack`**
+**`Estudante UFF | Pesquisador | Engenheiro de IA | Cientista e Analista de Dados | Desenvolvedor Full-Stack`**
 
 <p>Me chamo **Caio Andrade da Silva Cunha**, tenho **22 anos**, e sou um estudante em processo de graduação no **6º semestre da Universidade Federal Fluminense (UFF)**. </p>
 <p>Meu olhar está sempre voltado para o futuro, profundamente fascinado pela **tecnologia** e pelo poder da **inovação** para moldar um amanhã mais inteligente e acessível. </p>
 <p>Minha jornada é marcada pela busca incessante por conhecimento, mergulhando em áreas de ponta que vão da Inteligência Artificial à Criptografia Quântica. </p>
 <br>
-<p align="left">
-    <a href="https://api.whatsapp.com/send/?phone=5521998326272&text&type=phone_number&app_absent=0">
-        <img 
-            alt="chat WhatsApp" 
-            title="WhatsApp" 
-            src="https://custom-icon-badges.demolab.com/github/stars/caiobinharj?color=55960c&style=for-the-badge&labelColor=488207&logo=whatsapp&label=WhatsApp"
-        />
-    </a>
-    <img/>
-=======
-    
-main
-    <a href="https://www.linkedin.com/in/caio-andrade-3b7b30238/">
-        <img 
-            alt="LinkedIn" 
-            title="Conecte-se no LinkedIn" 
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-    </a>
-    <br clear="left" /> 
-</p>
+<div align="left">
+  <a href="https://api.whatsapp.com/send/?phone=5521998326272&text&type=phone_number&app_absent=0" title="WhatsApp">
+    <img
+      alt="chat WhatsApp"
+      src="https://custom-icon-badges.demolab.com/github/stars/caiobinharj?color=55960c&style=for-the-badge&labelColor=488207&logo=whatsapp&label=WhatsApp"
+    />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/caio-andrade-3b7b30238/" title="Conecte-se no LinkedIn">
+    <img
+      alt="LinkedIn"
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
+  </a>
+</div>
 
 ---
 

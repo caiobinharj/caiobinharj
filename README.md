@@ -34,7 +34,7 @@ Me chamo **Caio Andrade da Silva Cunha**, tenho **22 anos**, e sou um estudante 
 
 Minha curiosidade me levou a realizar **três Iniciações Científicas (ICs)** de alto impacto:
 
-| Título da IC (Decidido por IA) | Foco Principal | Tecnologias Chave |
+| Título da IC | Foco Principal | Tecnologias Chave |
 | :--- | :--- | :--- |
 | **Acessibilidade Governamental via LLMs** | Desenvolvimento de chatbots para tornar documentos públicos mais acessíveis (Multilab Research). | **PyTorch, Keras, TensorFlow, RAG, LangChain** |
 | **Simulação de Protocolos Criptográficos Quânticos** | Análise e desenvolvimento de protocolos de segurança contra futuras ameaças quânticas. | **Qiskit** |
@@ -75,7 +75,9 @@ Meu stack de desenvolvimento e pesquisa abrange as áreas de Full-Stack, Machine
     <img align="left" alt="MongoDB" title="MongoDB" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"/>
     
     <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-    </p>
+    
+    <br clear="left" /> 
+</p>
 
 <br/>
 <br/>

@@ -9,7 +9,7 @@ Me chamo **Caio Andrade da Silva Cunha**, tenho **22 anos**, e sou um estudante 
         <img 
             alt="chat WhatsApp" 
             title="WhatsApp" 
-            src="https://custom-icon-badges.demolab.com/github/stars/caiobinharj?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=WhatsApp"
+            src="https://custom-icon-badges.demolab.com/github/stars/caiobinharj?color=55960c&style=for-the-badge&labelColor=488207&logo=whatsapp&label=WhatsApp"
         />
     </a>
     <a href="https://github.com/caiobinharj?tab=followers">

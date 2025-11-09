@@ -12,13 +12,13 @@ Me chamo **Caio Andrade da Silva Cunha**, tenho **22 anos**, e sou um estudante 
             src="https://custom-icon-badges.demolab.com/github/stars/caiobinharj?color=55960c&style=for-the-badge&labelColor=488207&logo=whatsapp&label=WhatsApp"
         />
     </a>
-    <a href="https://github.com/caiobinharj?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/caiobinharj?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+    <a href="mailto:seuemail@gmail.com">
+    <img 
+        alt="Enviar Email" 
+        title="Enviar um email" 
+        src="https://custom-icon-badges.demolab.com/badge/Gmail?color=d32323&labelColor=a00d0d&style=for-the-badge&logo=gmail&label=Gmail&logoColor=white"
+    />
+</a>
     <a href="https://www.linkedin.com/in/caio-andrade-3b7b30238/">
         <img 
             alt="LinkedIn" 

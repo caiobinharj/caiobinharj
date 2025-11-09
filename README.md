@@ -12,7 +12,7 @@ Me chamo **Caio Andrade da Silva Cunha**, tenho **22 anos**, e sou um estudante 
             src="https://custom-icon-badges.demolab.com/github/stars/caiobinharj?color=55960c&style=for-the-badge&labelColor=488207&logo=whatsapp&label=WhatsApp"
         />
     </a>
-    <a href="mailto:seuemail@gmail.com">
+    <a href="mailto:caioasc886@gmail.com">
     <img 
         alt="Enviar Email" 
         title="Enviar um email" 

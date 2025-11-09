@@ -26,6 +26,7 @@ Me chamo **Caio Andrade da Silva Cunha**, tenho **22 anos**, e sou um estudante 
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
+    <br clear="left" /> 
 </p>
 
 ---
@@ -59,29 +60,29 @@ Meu stack de desenvolvimento e pesquisa abrange as áreas de Full-Stack, Machine
 <p align="left">
     <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/><img align="left" alt="Scikit-learn" title="Scikit-learn" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"/><img align="left" alt="Keras" title="Keras" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg"/><img align="left" alt="PyTorch" title="PyTorch" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg"/><img align="left" alt="TensorFlow" title="TensorFlow" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg"/><img align="left" alt="NumPy" title="NumPy" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg"/><img align="left" alt="Pandas" title="Pandas" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"/><img align="left" alt="Matplotlib" title="Matplotlib" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg"/><img align="left" alt="Jupyter" title="Jupyter Notebook" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg"/>
 
+    <img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+    <img align="left" alt="React" title="React" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
+    <img align="left" alt="Node.js" title="Node.js" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
+    <img align="left" alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+    <img align="left" alt="SQL" title="SQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
+    <img align="left" alt="MongoDB" title="MongoDB" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"/>
     
+    <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+    
+    <br clear="left" /> 
 </p>
-
-<br/>
-<br/>
 
 ---
 
 ### 📊 Estatísticas do GitHub
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=caiobinharj&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+    <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" 
+        src="https://github-readme-stats.vercel.app/api?username=caiobinharj&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    />
 
-  <img 
-    align="left" 
-    alt="Top Languages" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiobinharj&theme=tokyonight&layout=compact&custom_title=Tecnologias Mais Usadas&langs_count=8" 
-  />
+    <img align="left" alt="Top Languages" height="200" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiobinharj&theme=tokyonight&layout=compact&custom_title=Tecnologias Mais Usadas&langs_count=8" 
+    />
+    <br clear="left" /> 
 </p>

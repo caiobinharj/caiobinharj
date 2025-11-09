@@ -2,8 +2,8 @@
 
 **`Estudante UFF | Pesquisador | Engenheiro de IA | Cientista e Analista de Dados | Desenvolvedor Full-Stack`**
 
-<p>Me chamo **Caio Andrade da Silva Cunha**, tenho **22 anos**, e sou um estudante em processo de graduação no **6º semestre da Universidade Federal Fluminense (UFF)**. </p>
-<p>Meu olhar está sempre voltado para o futuro, profundamente fascinado pela **tecnologia** e pelo poder da **inovação** para moldar um amanhã mais inteligente e acessível. </p>
+<p>Me chamo Caio Andrade da Silva Cunha, tenho 22 anos, e sou um estudante em processo de graduação no 6º semestre da Universidade Federal Fluminense (UFF). </p>
+<p>Meu olhar está sempre voltado para o futuro, profundamente fascinado pela tecnologia e pelo poder da inovação para moldar um amanhã mais inteligente e acessível. </p>
 <p>Minha jornada é marcada pela busca incessante por conhecimento, mergulhando em áreas de ponta que vão da Inteligência Artificial à Criptografia Quântica. </p>
 <br>
 <div align="left">

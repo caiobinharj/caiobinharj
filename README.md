@@ -1,14 +1,14 @@
 # 🚀 Caio Andrade da Silva Cunha
 
-**`Estudante UFF | Pesquisador | Engenheiro de IA & Full-Stack`**
+**`Estudante UFF | Pesquisador | Engenheiro de IA | Cientista e Analista de Dados | Full-Stack`**
 
 Me chamo **Caio Andrade da Silva Cunha**, tenho **22 anos**, e sou um estudante em processo de graduação no **6º semestre da Universidade Federal Fluminense (UFF)**. Meu olhar está sempre voltado para o futuro, profundamente fascinado pela **tecnologia** e pelo poder da **inovação** para moldar um amanhã mais inteligente e acessível. Minha jornada é marcada pela busca incessante por conhecimento, mergulhando em áreas de ponta que vão da Inteligência Artificial à Criptografia Quântica.
 
 <p align="left">
-    <a href="https://github.com/caiobinharj?tab=repositories&sort=stargazers">
+    <a href="https://api.whatsapp.com/send/?phone=5521998326272&text&type=phone_number&app_absent=0">
         <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
+            alt="chat WhatsApp" 
+            title="WhatsApp" 
             src="https://custom-icon-badges.demolab.com/github/stars/caiobinharj?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>

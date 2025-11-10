@@ -30,9 +30,9 @@ Minha curiosidade me levou a realizar **três Iniciações Científicas (ICs)** 
 
 | Título da IC | Foco Principal | Tecnologias Chave |
 | :--- | :--- | :--- |
-| **Acessibilidade Governamental via LLMs** | Desenvolvimento de chatbots para tornar documentos públicos mais acessíveis (Multilab Research). | **PyTorch, Keras, TensorFlow, RAG, LangChain** |
+| **Acessibilidade Governamental via LLMs** | Desenvolvimento de chatbots para tornar documentos públicos mais acessíveis (Multilab Research). | **PyTorch, TensorFlow, LangChain** |
 | **Simulação de Protocolos Criptográficos Quânticos** | Análise e desenvolvimento de protocolos de segurança contra futuras ameaças quânticas. | **Qiskit** |
-| **Associação ML em Saúde e Biometria** | Aplicação de Machine Learning para detecção de psicopatologias usando dados de SmartWatch. | **Scikit-learn, Pandas, NumPy, Matplotlib** |
+| **Associação ML em Saúde e Biometria** | Aplicação de Machine Learning para detecção de psicopatologias usando dados de SmartWatch. | **Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn** |
 
 ---
 
